@@ -1,0 +1,24 @@
+.nav-link{
+    color: var(--light-color);
+    text-decoration: none;
+    border-radius: 50rem;
+    transition: 0.7s;
+}
+
+.nav-link:hover{
+    color: white;
+    text-decoration: none;
+    border-radius: 50rem;
+    background-color: var(--light-color);
+}
+
+.navbar-brand,
+.navbar-brand:hover
+{
+    color:var(--light-color);
+}
+
+.social a{
+    color: var(--light-color);
+    text-decoration: none;
+}
